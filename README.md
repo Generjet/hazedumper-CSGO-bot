@@ -1,5 +1,5 @@
 # hazedumper
-
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjlVOFMzOGFVMGV3RDFjbHJDdTkwelVkNE94Z3xBQ3Jtc0trU3V6aVJqNjl5T1FjSVFiUGFsek5VdU0tTGx2YjFkMVBBTlkzS29Tei1LM0NYNWpweEVLUGhTMzBOTlBMWUdRUjdJWXUzQmc0TkM5RTVKWWYxNkxwUDRNb3k1T0cweXZFdjU1Y0loLUEtWUFJVlZRYw&q=https%3A%2F%2Fguidedhacking.com%2Fthreads%2Fcsgo-m_fflags-offset-dwforcejump-offset-bitfields-info.12019%2F%23post-88175&v=sboI-i_qJuU
 🚀 Up to date offset and dumper-config for Counter-Strike: Global Offensive. For more informations visit the [release page on UnKnoWnCheaTs](https://www.unknowncheats.me/forum/counterstrike-global-offensive/169351-haze-dumper-json-config-based-offset-dumper.html).
 
 ## Local Player
